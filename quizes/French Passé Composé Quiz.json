@@ -1,0 +1,75 @@
+{
+  "title": "French Passé Composé Quiz",
+  "questions": [
+    {
+      "question": "What is the past participle of 'avoir'?",
+      "answer": "eu",
+      "example": "J'ai eu peur sur les montagnes russes."
+    },
+    {
+      "question": "What is the past participle of 'devoir'?",
+      "answer": "dû",
+      "example": "Tu as dû emmener ta sœur à la teuf."
+    },
+    {
+      "question": "What is the past participle of 'être'?",
+      "answer": "été",
+      "example": "Il a été malade lundi dernier."
+    },
+    {
+      "question": "What is the past participle of 'faire'?",
+      "answer": "fait",
+      "example": "Elle a fait un tour de grande roue samedi."
+    },
+    {
+      "question": "What is the past participle of 'falloir'?",
+      "answer": "fallu",
+      "example": "Il a fallu demander le chemin."
+    },
+    {
+      "question": "What is the past participle of 'lire'?",
+      "answer": "lu",
+      "example": "Avez-vous lu ce livre?"
+    },
+    {
+      "question": "What is the past participle of 'mettre'?",
+      "answer": "mis",
+      "example": "L'artiste a mis des couleurs vives."
+    },
+    {
+      "question": "What is the past participle of 'offrir'?",
+      "answer": "offert",
+      "example": "Nous avons offert un cadeau à notre mère."
+    },
+    {
+      "question": "What is the past participle of 'pleuvoir'?",
+      "answer": "plu",
+      "example": "Il a plu toute la journée hier."
+    },
+    {
+      "question": "What is the past participle of 'pouvoir'?",
+      "answer": "pu",
+      "example": "Hier soir, je n'ai pas pu aller au concert."
+    },
+    {
+      "question": "What is the past participle of 'prendre'?",
+      "answer": "pris",
+      "example": "Elles ont pris le métro jusqu'à la gare."
+    },
+    {
+      "question": "What is the past participle of 'suivre'?",
+      "answer": "suivi",
+      "example": "As-tu suivi un guide au musée d'Orsay?"
+    },
+    {
+      "question": "What is the past participle of 'voir'?",
+      "answer": "vu",
+      "example": "Qu'est-ce qu'il a vu au Louvre?"
+    },
+    {
+      "question": "What is the past participle of 'vouloir'?",
+      "answer": "voulu",
+      "example": "Nous n'avons pas voulu regarder la télé."
+    }
+  ]
+}
