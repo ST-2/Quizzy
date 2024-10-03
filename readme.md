@@ -1,6 +1,6 @@
 ## Quizzy - README.md
 
-**Quizzy** is a simple quiz application built with Tkinter that allows you to load and take quizzes from JSON files. It features a user-friendly interface with two modes: flashcard and multiple-choice.
+**Quizzy** is a simple quiz application built with Tkinter that allows you to load and take quizzes from JSON files. It features a user-friendly interface with two modes: flashcard and multiple-choice. This was made mainly because of my hatred towards Quizlet
 
 ### Features
 
